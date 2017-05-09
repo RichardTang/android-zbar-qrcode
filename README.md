@@ -32,4 +32,4 @@ Compile
 
 Use buildozer:
 
-	buildozer android debug deploy run
+	buildozer android_new debug deploy run
